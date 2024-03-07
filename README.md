@@ -23,7 +23,7 @@ Siga estas etapas para configurar o Projeto JM Viagens em sua máquina:
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/devbdallagnol/dio_myversioninstagram
+   git clone https://github.com/devbdallagnol/projeto-jmviagens_html_css
    ```
 
 2. **Crie o ambiente virtual:**
